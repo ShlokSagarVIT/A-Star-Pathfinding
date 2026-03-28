@@ -1,0 +1,17 @@
+🔹 1. Introduction
+What is pathfinding
+Real-world use (Google Maps)
+🔹 2. Problem Statement
+Finding shortest path in grid with obstacles
+🔹 3. Methodology
+A* Algorithm
+Heuristic (Manhattan distance)
+🔹 4. Implementation
+Explain code briefly
+🔹 5. Results
+Show output
+🔹 6. Challenges
+Handling obstacles
+Choosing heuristic
+🔹 7. Conclusion
+A* is efficient and optimal
