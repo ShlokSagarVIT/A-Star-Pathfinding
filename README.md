@@ -30,3 +30,8 @@ End: (4,4)
 
 * Understanding of informed search
 * Heuristic-based optimization
+## 📊 Project Presentation
+
+You can view the project presentation here:
+
+[A* Pathfinding PPT](docs/A-Star-Pathfinding-Presentation.pptx)
